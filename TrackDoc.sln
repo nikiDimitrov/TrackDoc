@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36414.22 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrackDoc", "TrackDoc.csproj", "{F6221067-3FF4-4198-9FDD-50B57BF63ED8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrackDoc", "TrackDoc\TrackDoc.csproj", "{F6221067-3FF4-4198-9FDD-50B57BF63ED8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
